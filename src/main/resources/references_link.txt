@@ -1,1 +1,3 @@
 https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-1.2
+https://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html#dateutil
+https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week
