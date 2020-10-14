@@ -1,4 +1,4 @@
-package main.java.ClassesMore.Lab8_1;
+package main.java.DataStructure.Lab8_1;
 
 public class MyIntStack {
 	private int[] contents;

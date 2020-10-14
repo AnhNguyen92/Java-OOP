@@ -1,4 +1,4 @@
-package main.java.ClassesMore.Lab7_2;
+package main.java.OOPMore.Lab7_2;
 
 import java.util.ArrayList;
 import java.util.List;
