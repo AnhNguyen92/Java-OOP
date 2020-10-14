@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PolyLine {
-	private List<Point> points = new ArrayList<Point>();
+	private List<Point> points = new ArrayList<>();
 
 	public PolyLine() {
 	}
